@@ -1,0 +1,7 @@
+public class cars{
+private string make;
+private string model;
+private int year;
+private string licenseplatenumber;
+private boolean is available;
+private double rentalrate;
